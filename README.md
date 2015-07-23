@@ -1,2 +1,2 @@
 # sapssoext
-SAPSSOEXT bindings for other languages
+SWIG interfaces for SAPSSOEXT
